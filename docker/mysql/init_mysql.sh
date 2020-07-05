@@ -1,0 +1,1 @@
+mysql -u root -p43562345 talenttech < /init_mysql.sql

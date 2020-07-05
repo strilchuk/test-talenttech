@@ -1,0 +1,2 @@
+GRANT ALL ON talenttech.* TO 'talenttech'@'%' IDENTIFIED BY '43562345';
+FLUSH PRIVILEGES;
